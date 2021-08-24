@@ -1,4 +1,4 @@
-#main-Spiel | Lennart Schiweck | Hoschschule Reutlingen | Endabgabe
+#main-Spiel | Lennart Schiweck
 import itertools
 import random
 
